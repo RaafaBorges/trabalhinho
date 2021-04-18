@@ -1,0 +1,13 @@
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\bin\Debug\netcoreapp3.1\loja.exe
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\bin\Debug\netcoreapp3.1\loja.deps.json
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\bin\Debug\netcoreapp3.1\loja.runtimeconfig.json
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\bin\Debug\netcoreapp3.1\loja.runtimeconfig.dev.json
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\bin\Debug\netcoreapp3.1\loja.dll
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\bin\Debug\netcoreapp3.1\loja.pdb
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.csprojAssemblyReference.cache
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.AssemblyInfo.cs
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.dll
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.pdb
+C:\Users\marco\Documents\Rafa\trabalhinho\Loja\Models\loja\obj\Debug\netcoreapp3.1\loja.genruntimeconfig.cache
