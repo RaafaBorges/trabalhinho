@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Loja\bin\Debug\Loja.exe.config
+C:\Users\HP\source\repos\Loja\bin\Debug\Loja.exe
+C:\Users\HP\source\repos\Loja\bin\Debug\Loja.pdb
+C:\Users\HP\source\repos\Loja\obj\Debug\Loja.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Loja\obj\Debug\Loja.exe
+C:\Users\HP\source\repos\Loja\obj\Debug\Loja.pdb
